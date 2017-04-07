@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to This Website
 
-You can use the [editor on GitHub](https://github.com/indanaluthfi/Pendaftaran/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Untuk melakukan pendaftaran silahkan klik Link berikut ini
+[Pendaftaran](https://indanaluthfi.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +22,7 @@ Syntax highlighted code block
 [Pendaftaran](indanaluthfi.github.io) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Pendaftaran](https://indanaluthfi.github.io/).
 
 ### Jekyll Themes
 
