@@ -1,7 +1,11 @@
-## Selamat Datang di Website SMK Wahid Hasyim Trenggalek
+## Selamat Datang di Website Kami
 
-Untuk melakukan pendaftaran silahkan klik Link berikut ini
+Untuk melakukan pendaftaran di SMK Wahid Hasyim Trenggalek silahkan klik Link berikut ini
 [Pendaftaran](https://indanaluthfi.github.io/)
+
+
+
+
 
 
 
