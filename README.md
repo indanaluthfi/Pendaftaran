@@ -1,15 +1,15 @@
-## Welcome to This Website
+## Selamat Datang di Website SMK Wahid Hasyim Trenggalek
 
 Untuk melakukan pendaftaran silahkan klik Link berikut ini
 [Pendaftaran](https://indanaluthfi.github.io/)
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+
+## Luthfi Indana
+### 16702251021
 
 - Bulleted
 - List
@@ -19,15 +19,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Pendaftaran](indanaluthfi.github.io) and ![Image](src)
 ```
-
-For more details see [Pendaftaran](https://indanaluthfi.github.io/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/indanaluthfi/Pendaftaran/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
